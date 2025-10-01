@@ -64,7 +64,7 @@ Access to clean and safe drinking water remains a critical issue. Conventional l
 - Clean, minimal interface for fast assessment  
 
 #### Dashboard Screenshots  
-| Upload Page | Results View | PPM Scale | Prediction Details | Final Report |
+| Upload Page | Results View | PPM Scale | Prediction Details | Developers |
 |-------------|-------------|-----------|--------------------|--------------|
 | ![Upload](images/IMG_0505.PNG) | ![Results](images/IMG_0506.PNG) | ![PPM](images/IMG_0507.PNG) | ![Prediction](images/IMG_0508.PNG) | ![Developers](images/IMG_0509.PNG) |
 
