@@ -76,7 +76,7 @@ Access to clean and safe drinking water remains a critical issue. Conventional l
 - Recognized for **practicality, technical innovation, and social impact**  
 
 #### Event Highlights  
-| Award Certificate | Team Recognition |
+| Team Recognition | Award Certificate |
 |-------------------|------------------|
 | ![Certificate](images/IMG_8119.JPG) | ![Team](images/IMG_8120.JPG) |
 
