@@ -131,3 +131,7 @@ Special thanks to mentors, peers, and the judging panel at **Protothon 1.0**.
 ## Key Takeaway  
 
 > *“WQ Vision demonstrates how AI, IoT, and embedded hardware can revolutionize water quality testing, making clean water insights accessible, affordable, and intelligent.”*
+
+
+
+####Protothon
